@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /campaigns
+Disallow: /leads
+Disallow: /billing
+Disallow: /leaderboard
+Disallow: /profile
+Disallow: /admin
+Disallow: /change-password
+
+Sitemap: https://leadintel.ai/sitemap.xml
